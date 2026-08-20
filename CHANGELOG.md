@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/k0nstantin777/ai-for-developers-project-386/compare/v1.1.0...v1.1.1) (2026-08-16)
+
+
+### Bug Fixes
+
+* Перенос Dockerfile для деплоя в корень, для прохождения автопроверки. ([4910b08](https://github.com/k0nstantin777/ai-for-developers-project-386/commit/4910b0840dca5225f984d86e981b44386ca1ff5d))
+
 ## [1.1.0](https://github.com/k0nstantin777/ai-for-developers-project-386/compare/v1.0.1...v1.1.0) (2026-08-16)
 
 
